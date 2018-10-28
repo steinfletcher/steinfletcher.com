@@ -9,7 +9,7 @@ install:
 
 deploy:
   provider: script
-  script: ./bin/up
+  script: ./bin/up deploy production
   skip_cleanup: true
 
 after_success:
