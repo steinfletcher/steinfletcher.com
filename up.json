@@ -1,0 +1,13 @@
+{
+  "name": "steinfletcher",
+  "profile": "personal",
+  "type": "static",
+  "static": {
+    "dir": "static"
+  },
+  "stages": {
+    "production": {
+      "domain": "steinfletcher.com"
+    }
+  }
+}
