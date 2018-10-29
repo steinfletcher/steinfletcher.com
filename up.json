@@ -1,6 +1,7 @@
 {
   "name": "steinfletcher",
   "profile": "personal",
+  "regions": ["eu-west-2"],
   "type": "static",
   "static": {
     "dir": "static"

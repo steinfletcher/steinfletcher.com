@@ -1,0 +1,10 @@
+{
+  "name": "redirect",
+  "profile": "personal",
+  "regions": ["eu-west-2"],
+  "stages": {
+    "production": {
+      "domain": "www.steinfletcher.com"
+    }
+  }
+}
